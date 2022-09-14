@@ -3,4 +3,6 @@ Intructor: Tony
 
 Went through the basics of accessing and using an API within python.
 
-API used was OpenWeather TODO: add link
+API used was OpenWeather
+
+> Make sure to enter the api key to run the program.
